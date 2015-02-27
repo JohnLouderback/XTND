@@ -1,0 +1,33 @@
+{
+  "name": "XTND",
+  "version": "0.0.1",
+  "description": "XTND allows you to safely extend JavaScript prototypes using namespaces",
+  "main": "xtnd.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n/a"
+  },
+  "keywords": [
+    "xtnd",
+    "prototype",
+    "prototypes",
+    "extend",
+    "extension"
+  ],
+  "author": "John Louderback",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.7.0"
+  }
+}
